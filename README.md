@@ -7,6 +7,5 @@ Hi Im Maikel from Canada and I do software development. I have been working on s
 ## Skills and Experience
 * ⚛ React
 * 📱 React Native
-* 💻 HTML, CSS, JS
-
+* 💻 HTML, CSS, JS, C, C++, SQL
 [![Maikel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maikel-Mirza)](https://github.com/Maikel-Mirzadegan/github-readme-stats)
