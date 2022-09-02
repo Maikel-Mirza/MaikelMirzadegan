@@ -10,6 +10,5 @@ Hi Im Maikel from Canada and I do software development. I have been working on s
 * 📱 React Native
 * 💻 HTML, CSS, JS, C, C++, SQL
 
-- 🌱 I’m currently learning C, C++, Javascript 
 
 [![Maikel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maikel-Mirza)](https://github.com/Maikel-Mirzadegan/github-readme-stats)
