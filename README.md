@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Hi Im Maikel from Canada and I do software development. I have been working on software development for 2 years now and since going into Computer Science and building my own projects and my own code, I've really come to enjoy and take pleasure in the work that I do. I want to continue to keep learning and gain more experience in this field. I enjoy learning frameworks like Node.js, and Express.js as well as React, and React Native,  I also enjoy UI, UX, and working with languages such as C, C++, JavaScript, and SQL.
+Hi I'm Maikel, I live in Canada and I do Software Development. I have been working on software development for over 2 years now and since deciding to start learning Computer Science and building my own projects and my own code, I've really come to enjoy and take pleasure in the work that I do. I want to continue to keep learning and gain more experience in this field because I feel like I can make a positive contribution with my achievements and because it's fun. I enjoy frontend and backend web development using JavaScript and frameworks like Node.js, Express.js and React, but I also enjoy working with languages such as C, C++, and SQL.
 
 - 🌱 I’m currently learning **JavaScript | Node.js | Express.js**
 - 🌱 I’m currently learning **C++**
