@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Hi I'm Maikel, I live in Canada and I do Software Development. I have been working on software development for over 2 years now and since deciding to start learning Computer Science and building my own projects and my own code, I've really come to enjoy and take pleasure in the work that I do. I want to continue to keep learning and gain more experience in this field because I feel like I can make a positive contribution with my achievements and because it's fun. I enjoy frontend and backend web development using JavaScript and frameworks like Node.js, Express.js and React, but I also enjoy working with languages such as C, C++, and SQL.
+Hi, I'm Maikel and I'm a software developer based in Canada. As a full-stack JavaScript developer with over 2 years of experience, I have a strong passion for building and creating new projects. My skills include front-end and back-end web development using JavaScript and frameworks such as Node.js, Express.js, and React, as well as experience with languages like C, C++, and SQL. I specialize in creating REST APIs for cloud deployment and have experience with AWS. I am always looking for opportunities to learn and grow as a developer and aim to make a positive contribution through my work, with a focus on creating seamless and efficient user experiences.
 
 - 🌱 I’m currently learning **JavaScript | Node.js | Express.js**
 - 🌱 I’m currently learning **C++**
