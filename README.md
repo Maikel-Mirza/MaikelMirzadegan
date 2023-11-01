@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Hi, I'm Maikel and I'm a software developer based in Canada. As a full-stack JavaScript developer with over 2 years of experience, I have a strong passion for building and creating new projects. My skills include front-end and back-end web development using JavaScript and frameworks such as Node.js, Express.js, and React, as well as experience with languages like C, C++, and SQL. I specialize in creating REST APIs for cloud deployment and have experience with AWS. I am always looking for opportunities to learn and grow as a developer and aim to make a positive contribution through my work, with a focus on creating seamless and efficient user experiences.
+Hi, I'm Maikel and I'm a software developer based in Canada. As a full-stack JavaScript developer with over 2 years of experience, I have a strong passion for building and creating new projects. My skills include front-end and back-end web development using JavaScript, Python, and frameworks such as Node.js, Express.js, and React, as well as experience with languages like C, C++, and SQL. I specialize in creating REST APIs for cloud deployment and have experience with AWS. I am always looking for opportunities to learn and grow as a developer and aim to make a positive contribution through my work, with a focus on creating seamless and efficient user experiences.
 
 - 🌱 I’m currently learning **JavaScript | Node.js | Express.js**
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **mamirzadegan@hotmail.com**
 
