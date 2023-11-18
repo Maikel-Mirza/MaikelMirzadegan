@@ -25,6 +25,9 @@
   </a>
 </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/oddtechoasis"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
