@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<p align="left">Hi, I'm Maikel, a software developer based in Canada. As a full-stack JavaScript developer with over 3 years of experience, I have a strong passion for building and creating new projects. My skills include front-end and back-end web development using JavaScript, Python, and frameworks such as Node.js, Express.js, and React, as well as experience with languages like C, C++, and SQL. I specialize in creating REST APIs for cloud deployment and have experience with AWS. I am always looking for opportunities to learn and grow as a developer and aim to make a positive contribution through my work, with a focus on creating seamless and efficient user experiences.</p>
+<p align="left">Hi, I'm Maikel, a software developer based in Canada. As a full-stack JavaScript developer with over 3 years of experience, I have a strong passion for building and creating new projects. My skills include Front-end and Back-end web development using JavaScript, Python, and frameworks such as Node.js, Express.js, and React, as well as experience with languages like C, C++, and SQL. I specialize in creating REST APIs for cloud deployment and have experience with AWS. I am always looking for opportunities to learn and grow as a developer and aim to make a positive contribution through my work, with a focus on creating seamless and efficient user experiences.</p>
 
 <ul align="center">
   <li>🌱 I’m currently learning <strong>JavaScript | Node.js | Express.js</strong></li>
